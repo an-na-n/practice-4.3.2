@@ -1,0 +1,10 @@
+div .container {
+  text-align: center;
+  margin: 0;
+  padding: 50px 170px;
+  max-width: 100%;
+}
+
+.container .title {
+  margin: 0 0 40px 0;
+}

@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  position: relative;
+  width: 100%;
+  min-width: 320px;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: black;
+}
